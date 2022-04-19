@@ -1,5 +1,4 @@
-# AppBasicao
-Código de exemplo para tutoriais de como fazer um App.
+:: House Tech ::
+Um aplicativo web designado para automação residencial.
 
-Visite o livro GRATUITO em PDF para fazer todo o tutorial:
-http://bit.ly/APP1diaPDF
+
